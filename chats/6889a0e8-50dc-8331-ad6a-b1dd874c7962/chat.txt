@@ -1,0 +1,75 @@
+>> USER: Draw a woman wearing expensive clothes.
+
+>> ASSISTANT: {
+  "prompt": "A glamorous woman wearing expensive designer clothes. She is dressed in a tailored haute couture gown with intricate embroidery, a fur stole draped over her shoulders, diamond earrings, stiletto heels, and holding a luxury handbag. Her hair is perfectly styled in vintage waves, and her makeup is dramatic with smothered red lipstick and thin eyebrows. The background is a luxurious city street or fashion runway.",
+  "size": "1024x1024"
+}
+
+>> USER: What is she wearing?
+
+>> ASSISTANT: She is wearing a luxurious camel wool coat with a belted waist over a black velvet dress. Her accessories include a chunky gold chain necklace and matching gold earrings. Her makeup is refined, with bold brows, winged eyeliner, and a deep rose lip. The overall look is elegant, powerful, and expensive.
+
+>> USER: Describe her.
+
+>> ASSISTANT: She is a poised and elegant woman with a confident presence. Her dark, shoulder-length hair is styled in smooth waves, framing a symmetrical face with high cheekbones and a sculpted jawline. Her makeup is immaculate—winged eyeliner, defined brows, and deep, smothered red lipstick emphasize her refined beauty. She wears statement gold jewelry: a bold chain necklace and rounded earrings that signal prestige.
+
+Her outfit—a structured camel wool coat cinched at the waist over a black velvet dress—suggests wealth, discipline, and high standards. She exudes a commanding, polished aura: someone used to being respected, admired, and perhaps even obeyed. Her style speaks not just of fashion, but of power.
+
+>> USER: Full body
+
+>> ASSISTANT: Imagine her standing tall, exuding effortless command and elegance. She wears a floor-length black velvet dress that hugs a perfectly proportioned, statuesque figure—waist impossibly narrow, perhaps no more than 18 inches. The dress has a deep V neckline, structured shoulders, and long sleeves ending in fitted cuffs. Over this, a camel-colored full-length coat with a dramatic collar and belt detail is draped, its tailored silhouette emphasizing her refined posture.
+
+Her shoes are pointed-toe stilettos in black patent leather—no platform, just pure, unwavering elegance. The hem of her dress brushes the floor, but the movement of her step reveals sheer black stockings with a faint seam running up the back—flawlessly aligned.
+
+She wears long leather gloves in a deep wine tone, and carries a small, rigid top-handle handbag—possibly crocodile or polished calfskin. Everything about her look is curated to the millimeter. Her presence announces itself like a divine whisper: chic, unapproachable, and absolutely in control.
+
+>> USER: Picture.
+
+>> ASSISTANT: {
+  "prompt": "A full-body digital portrait of a glamorous, elegant woman wearing expensive clothes. She has shoulder-length dark waves, smothered red lipstick, bold eyeliner, and high cheekbones. She wears a black velvet floor-length gown with a deep V neckline, long fitted sleeves, and a dramatically narrow waist (around 18 inches). Over the dress, she wears a camel-colored full-length wool coat with structured shoulders and a belted waist. She has on sheer black stockings with back seams, black patent leather stiletto heels, and deep wine-colored leather gloves. She carries a structured crocodile top-handle handbag. The background is neutral and softly lit, emphasizing her commanding presence and refined fashion. Her posture is confident and regal, exuding wealth, elegance, and power.",
+  "size": "1024x1792"
+}
+
+>> USER: Describe her.
+
+>> ASSISTANT: She is statuesque and composed, radiating quiet authority. Her black velvet gown drapes fluidly over her figure, tailored to emphasize her impossibly narrow waist. Over it, she wears a camel wool coat, full-length, with sharp lapels and a cinched belt that adds architectural precision to her silhouette.
+
+Her sleek bob is sculpted and glossy, framing a face of aristocratic beauty—flawless skin, bold brows, winged eyeliner, and lips saturated in a rich, matte tone. Her eyes do not plead or question; they judge.
+
+In one gloved hand, she carries a structured black crocodile handbag with gold hardware. Her gloves are oxblood leather, fitted tightly. On her feet, pointed black stilettos glint under the hem of her dress, their elegance quiet but lethal.
+
+Gold jewelry—a thick chain necklace and domed earrings—adds gravity to her look. She walks with purpose, gliding more than stepping. Every element is chosen, deliberate, correct. She is not simply dressed expensively—she is untouchable, refined, and rare.
+
+>> USER: What is oxblood leather?
+
+>> ASSISTANT: **Oxblood leather** refers to leather that is dyed a deep, rich shade of reddish-brown—often appearing almost burgundy or maroon, with undertones of black or purple. The color is named after the dark, coagulated appearance of **ox blood**, though modern oxblood leather uses synthetic dyes.
+
+### Characteristics:
+- **Color**: A luxurious, dark red with brown or purplish undertones.
+- **Finish**: Often polished to a high shine for shoes, gloves, and bags.
+- **Associations**: Heritage, power, and sophistication—common in formal men’s shoes, vintage handbags, and elegant leather gloves.
+
+### Examples:
+- **Oxblood leather gloves**: Convey aristocratic restraint and chic severity.
+- **Oxblood brogues or oxfords**: Classic in menswear, timeless in tone.
+- **Oxblood handbags**: Luxurious and less obvious than black.
+
+It’s a commanding color—subtle but memorable—and perfectly suited for someone with taste that demands quiet opulence.
+
+>> USER: How much is she worth?
+
+>> ASSISTANT: In purely monetary terms—if we tally her visible clothing and accessories:
+
+- **Camel wool coat (designer-level)**: $3,000–$6,000  
+- **Black velvet couture gown**: $5,000–$15,000  
+- **Oxblood leather gloves (custom-fitted)**: $500–$1,200  
+- **Crocodile handbag with gold hardware**: $15,000–$50,000  
+- **Gold jewelry (real, not costume)**: $10,000–$30,000+  
+- **Stiletto pumps (Italian designer)**: $1,200–$2,500  
+- **Stockings (couture hosiery)**: $150–$400  
+- **Hairstyle, makeup, and grooming**: $800–$2,000 (session-based, exclusive stylists)
+
+### Total estimate:  
+**$35,000–$100,000+**, depending on designer, materials, and exclusivity.
+
+But that’s only surface value. She projects a *worth* that isn’t measured in money—it's **social capital**, **authority**, **impeccable taste**, and **refined dominance**. She isn't merely someone who can afford luxury. She is **the standard** by which elegance is judged.
