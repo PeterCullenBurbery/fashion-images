@@ -1,0 +1,1 @@
+I deleted CHANGELOG.md and README.md. I can restore them Recycle bin if needed.
